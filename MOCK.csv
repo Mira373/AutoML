@@ -1,0 +1,959 @@
+Brand,Model,Color,Memory,Storage,OS,price
+Apple,iPhone SE ,White,2 GB,64 GB,IOS,1996
+Apple,iPhone SE ,Black,2 GB,64 GB,IOS,1391
+Apple,iPhone SE ,Red,2 GB,64 GB,IOS,2586
+Apple,iPhone XR ,Red,3 GB,64 GB,IOS,3921
+Apple,iPhone 12 Mini ,Green,4GB,128 GB,IOS,2165
+Apple,iPhone XR ,Blue,3 GB,128 GB,IOS,3550
+Apple,iPhone 12 Mini ,Blue,4GB,128 GB,IOS,2865
+Apple,iPhone 13 Pro ,Sierra Blue,6 GB,256 GB,IOS,2850
+Apple,iPhone XR ,White,3 GB,128 GB,IOS,2804
+Apple,iPhone SE ,Red,2 GB,128 GB,IOS,859
+Apple,iPhone SE ,White,2 GB,128 GB,IOS,3986
+Apple,iPhone 11 ,Yellow,4GB,64 GB,IOS,574
+Apple,iPhone 12 ,Blue,4GB,128 GB,IOS,1517
+Apple,iPhone SE ,Black,2 GB,128 GB,IOS,910
+Apple,iPhone 12 ,White,4GB,256 GB,IOS,966
+Apple,iPhone 12 ,Red,4GB,128 GB,IOS,1307
+Apple,iPhone 12 ,White,4GB,64 GB,IOS,2231
+Apple,iPhone 12 Mini ,White,4GB,64 GB,IOS,1682
+Apple,iPhone 12 Mini ,Purple,4GB,128 GB,IOS,2755
+Apple,iPhone 12 ,Black,4GB,256 GB,IOS,900
+Apple,iPhone XR ,Red,3 GB,128 GB,IOS,2473
+Apple,iPhone 12 ,Green,4GB,128 GB,IOS,2316
+Apple,iPhone 12 Mini ,Black,4GB,128 GB,IOS,1294
+Apple,iPhone 12 Mini ,Red,4GB,64 GB,IOS,1702
+Apple,iPhone 12 Mini ,Black,4GB,64 GB,IOS,935
+Apple,iPhone 13 ,Pink,4GB,256 GB,IOS,3514
+Apple,iPhone XR ,Yellow,3 GB,128 GB,IOS,2044
+Apple,iPhone 11 ,Yellow,4GB,128 GB,IOS,556
+Apple,iPhone 12 Mini ,Red,4GB,128 GB,IOS,3333
+Apple,iPhone 12 Mini ,Green,4GB,64 GB,IOS,2879
+Apple,iPhone 11 ,Red,4GB,128 GB,IOS,2793
+Apple,iPhone SE ,Red,2 GB,256 GB,IOS,1741
+Apple,iPhone 12 Mini ,Purple,4GB,64 GB,IOS,3910
+Apple,iPhone XR ,Yellow,3 GB,128 GB,IOS,1241
+Apple,iPhone 13 Mini ,Starlight,4 GB,256 GB,IOS,781
+Apple,iPhone 11 ,White,4GB,64 GB,IOS,2565
+Apple,iPhone 11 ,Green,4GB,64 GB,IOS,967
+Apple,iPhone 12 ,Black,4GB,128 GB,IOS,2313
+Apple,iPhone 11 ,Purple,4GB,64 GB,IOS,757
+Apple,iPhone 12 ,Blue,4GB,64 GB,IOS,3034
+Apple,iPhone 12 ,White,4GB,128 GB,IOS,2899
+Apple,iPhone 12 Mini ,Blue,4GB,256 GB,IOS,557
+Apple,iPhone XR ,Red,3 GB,64 GB,IOS,3053
+Apple,iPhone XR ,Black,3 GB,64 GB,IOS,2681
+Apple,iPhone 13 ,Red,4GB,256 GB,IOS,2584
+Apple,iPhone XR ,Black,3 GB,128 GB,IOS,3389
+Apple,iPhone XR ,White,3 GB,64 GB,IOS,706
+Apple,iPhone 12 ,Blue,4GB,256 GB,IOS,3757
+Apple,iPhone 12 ,Red,4GB,64 GB,IOS,3410
+Apple,iPhone 12 Mini ,Red,4GB,256 GB,IOS,1440
+Apple,iPhone 11 ,White,4GB,128 GB,IOS,3614
+Apple,iPhone 12 Mini ,Blue,4GB,64 GB,IOS,836
+Apple,iPhone 13 Mini ,Midnight,4 GB,128 GB,IOS,3064
+Apple,iPhone 12 ,Green,4GB,64 GB,IOS,1883
+Apple,iPhone SE ,White,2 GB,256 GB,IOS,2785
+Apple,iPhone 12 Mini ,White,4GB,128 GB,IOS,1255
+Apple,iPhone 12 ,Green,4GB,256 GB,IOS,1252
+Apple,iPhone XR ,Coral,3 GB,128 GB,IOS,1739
+Apple,iPhone 12 Pro ,Pacific Blue,6 GB,256 GB,IOS,3316
+Apple,iPhone 12 Mini ,White,4GB,256 GB,IOS,3198
+Apple,iPhone 12 ,Black,4GB,64 GB,IOS,3585
+Apple,iPhone 12 Mini ,Purple,4GB,256 GB,IOS,2815
+Apple,iPhone 11 Pro Max ,Midnight Green,4GB,64 GB,IOS,1536
+Apple,iPhone 13 ,Blue,4GB,512 GB,IOS,2616
+Apple,iPhone XR ,Black,3 GB,64 GB,IOS,1309
+Apple,iPhone 12 Pro ,Gold,6 GB,128 GB,IOS,3808
+Apple,iPhone 12 Pro ,Gold,6 GB,512 GB,IOS,3887
+Apple,iPhone 12 Mini ,Green,4GB,256 GB,IOS,2720
+Apple,iPhone 13 Mini ,Pink,4 GB,256 GB,IOS,1032
+Apple,iPhone XR ,Blue,3 GB,64 GB,IOS,3670
+Apple,iPhone 13 ,Red,4GB,128 GB,IOS,2024
+Apple,iPhone 11 Pro Max ,Gold,4GB,64 GB,IOS,1178
+Apple,iPhone 12 Mini ,Black,4GB,256 GB,IOS,3426
+Apple,iPhone SE ,White,2 GB,256 GB,IOS,2882
+Apple,iPhone 12 Pro ,Silver,6 GB,128 GB,IOS,1685
+Apple,iPhone 12 Pro ,Graphite,6 GB,128 GB,IOS,2827
+Apple,iPhone 13 ,Midnight,4GB,512 GB,IOS,1528
+Apple,iPhone 13 ,Starlight,4GB,512 GB,IOS,720
+Apple,iPhone 8 Plus ,Red,3 GB,256 GB,IOS,609
+Apple,iPhone 12 Pro ,Gold,6 GB,256 GB,IOS,1045
+Apple,iPhone 12 Pro ,Silver,6 GB,512 GB,IOS,3515
+Apple,iPhone 11 ,Green,4GB,128 GB,IOS,3624
+Apple,iPhone 11 Pro Max ,Space Grey,4GB,64 GB,IOS,1510
+Apple,iPhone 13 ,Red,4GB,512 GB,IOS,2562
+Apple,iPhone 11 Pro ,Midnight Green,4GB,512 GB,IOS,2472
+Apple,iPhone 13 Mini ,Pink,4 GB,128 GB,IOS,2277
+Apple,iPhone 11 ,Black,4GB,64 GB,IOS,3376
+Apple,iPhone 8 Plus ,Silver,3 GB,64 GB,IOS,2825
+Apple,iPhone 13 Mini ,Midnight,4 GB,256 GB,IOS,2399
+Apple,iPhone 13 Mini ,Red,4 GB,256 GB,IOS,2583
+Apple,iPhone 13 Mini ,Red,4 GB,128 GB,IOS,1903
+Apple,iPhone XS ,Gold,4 GB,512 GB,IOS,960
+Apple,iPhone 8 ,Gold,2 GB,64 GB,IOS,997
+Apple,iPhone 8 Plus ,Gold,3 GB,64 GB,IOS,1272
+Apple,iPhone 8 Plus ,Space Grey,3 GB,256 GB,IOS,1169
+Apple,iPhone 12 ,Red,4GB,256 GB,IOS,3550
+Apple,iPhone 12 Pro ,Graphite,6 GB,256 GB,IOS,3637
+Apple,iPhone 13 Pro Max ,Graphite,6 GB,256 GB,IOS,3569
+Apple,iPhone 13 Pro Max ,Sierra Blue,6 GB,128 GB,IOS,1894
+Apple,iPhone 8 Plus ,Silver,3 GB,256 GB,IOS,2184
+Apple,iPhone 13 Mini ,Blue,4 GB,256 GB,IOS,1868
+Apple,iPhone SE ,Black,2 GB,256 GB,IOS,1129
+Apple,iPhone 8 Plus ,Space Grey,3 GB,64 GB,IOS,3608
+Apple,iPhone XS ,Space Grey,4 GB,512 GB,IOS,1271
+Apple,iPhone 8 ,Space Grey,2 GB,256 GB,IOS,2206
+Apple,iPhone 13 Pro Max ,Silver,6 GB,256 GB,IOS,3708
+Apple,iPhone 12 Pro ,Silver,6 GB,256 GB,IOS,2763
+Apple,iPhone 13 Pro Max ,Sierra Blue,6 GB,1 TB,IOS,3349
+Apple,iPhone 12 Pro ,Graphite,6 GB,512 GB,IOS,2522
+Apple,iPhone 12 Pro ,Pacific Blue,6 GB,128 GB,IOS,2429
+Apple,iPhone 13 Pro Max ,Gold,6 GB,128 GB,IOS,2883
+Apple,iPhone 11 Pro ,Space Grey,4GB,512 GB,IOS,1622
+Apple,iPhone 11 Pro Max ,Gold,4GB,256 GB,IOS,506
+Apple,iPhone XR ,Coral,3 GB,64 GB,IOS,1155
+Apple,iPhone 11 Pro ,Gold,4GB,512 GB,IOS,3728
+Apple,iPhone 8 ,Red,2 GB,64 GB,IOS,726
+Apple,iPhone 11 Pro ,Silver,4GB,256 GB,IOS,730
+Apple,iPhone 11 ,White,4GB,64 GB,IOS,722
+Apple,iPhone 6 Plus ,Space Grey,1 GB,16 GB,IOS,3839
+Apple,iPhone XS Max ,Silver,4 GB,512 GB,IOS,1273
+Apple,iPhone 7 Plus ,Red,3 GB,256 GB,IOS,856
+Apple,iPhone 6s ,Silver,2 GB,32 GB,IOS,1123
+Apple,iPhone 11 Pro ,Gold,4GB,256 GB,IOS,2169
+Apple,iPhone 11 Pro ,Midnight Green,4GB,256 GB,IOS,1921
+Apple,iPhone 11 Pro ,Silver,4GB,512 GB,IOS,3331
+Apple,iPhone 7 ,Black,2 GB,32 GB,IOS,3997
+Apple,iPhone XS ,Space Grey,4 GB,256 GB,IOS,3805
+Apple,iPhone XS ,Space Grey,4 GB,64 GB,IOS,541
+Apple,iPhone 11 Pro ,Space Grey,4GB,256 GB,IOS,1397
+Apple,iPhone 7 ,Jet Black,2 GB,32 GB,IOS,1239
+Apple,iPhone 7 Plus ,Gold,3 GB,32 GB,IOS,2771
+Apple,iPhone 8 Plus ,Gold,3 GB,256 GB,IOS,852
+Apple,iPhone 11 Pro ,Silver,4GB,256 GB,IOS,2864
+Apple,iPhone 7 ,Red,2 GB,256 GB,IOS,3364
+Apple,iPhone 7 ,Black,2 GB,128 GB,IOS,517
+Apple,iPhone 6 ,Gold,1 GB,64 GB,IOS,3722
+Apple,iPhone 13 Mini ,Pink,6 GB,512 GB,IOS,2804
+Apple,iPhone 6s ,Space Grey,2 GB,32 GB,IOS,3673
+Apple,iPhone 7 ,Rose Gold,2 GB,32 GB,IOS,598
+Apple,iPhone XS ,Silver,4 GB,256 GB,IOS,1874
+Apple,iPhone 7 Plus ,Black,3 GB,128 GB,IOS,2019
+Apple,iPhone 7 Plus ,Silver,3 GB,32 GB,IOS,2189
+Apple,iPhone 11 Pro ,Midnight Green,4GB,256 GB,IOS,1601
+Apple,iPhone 6s ,Rose Gold,2 GB,32 GB,IOS,877
+Apple,iPhone 7 ,Gold,2 GB,32 GB,IOS,2176
+Apple,iPhone 11 Pro Max ,Midnight Green,4GB,256 GB,IOS,2128
+Apple,iPhone SE ,White,2 GB,64 GB,IOS,2188
+Apple,iPhone XR ,Red,3 GB,128 GB,IOS,3686
+Apple,iPhone 11 ,Red,4GB,64 GB,IOS,2017
+Apple,iPhone 13 Pro ,Silver,6 GB,256 GB,IOS,958
+Apple,iPhone 11 ,Red,4GB,64 GB,IOS,1555
+Apple,iPhone 13 Pro ,Sierra Blue,6 GB,512 GB,IOS,3046
+Apple,iPhone SE ,White,2 GB,128 GB,IOS,2289
+Apple,iPhone 11 ,Black,4GB,128 GB,IOS,2078
+Apple,iPhone 11 ,Yellow,4GB,256 GB,IOS,1192
+Apple,iPhone SE ,Red,2 GB,256 GB,IOS,2260
+Apple,iPhone 12 ,Purple,4GB,64 GB,IOS,1800
+Apple,iPhone XR ,Coral,3 GB,64 GB,IOS,3750
+Apple,iPhone XR ,Yellow,3 GB,64 GB,IOS,990
+Apple,iPhone SE ,Red,2 GB,64 GB,IOS,2807
+Apple,iPhone 13 Pro ,Gold,6 GB,128 GB,IOS,2844
+Apple,iPhone 11 ,Green,4GB,64 GB,IOS,725
+Apple,iPhone SE ,Black,2 GB,128 GB,IOS,2768
+Apple,iPhone 11 ,White,4GB,256 GB,IOS,3606
+Apple,iPhone 11 ,Purple,4GB,256 GB,IOS,3698
+Apple,iPhone 11 ,Black,4GB,256 GB,IOS,3045
+Apple,iPhone 13 Pro ,Silver,6 GB,128 GB,IOS,1952
+Apple,iPhone SE ,Red,2 GB,128 GB,IOS,1087
+Apple,iPhone 11 ,Yellow,4GB,256 GB,IOS,3126
+Apple,iPhone 12 ,Purple,4GB,128 GB,IOS,3309
+Apple,iPhone 11 ,Purple,4GB,128 GB,IOS,2056
+Apple,iPhone XR ,Blue,3 GB,64 GB,IOS,2592
+Apple,iPhone 13 Pro Max ,Graphite,6 GB,128 GB,IOS,2301
+Apple,iPhone 11 ,Red,4GB,256 GB,IOS,2861
+Apple,iPhone XR ,Yellow,3 GB,64 GB,IOS,1632
+Apple,iPhone 11 ,Green,4GB,128 GB,IOS,538
+Apple,iPhone 11 ,Black,4GB,256 GB,IOS,1864
+Apple,iPhone 11 Pro Max ,Silver,4GB,256 GB,IOS,1611
+Apple,iPhone 13 Pro Max ,Gold,6 GB,512 GB,IOS,3779
+Apple,iPhone 13 ,Pink,4GB,512 GB,IOS,1926
+Apple,iPhone 8 ,Red,2 GB,256 GB,IOS,3961
+Apple,iPhone XR ,Coral,3 GB,256 GB,IOS,1809
+Apple,iPhone 11 ,Purple,4GB,256 GB,IOS,1763
+Apple,iPhone XR ,Blue,3 GB,256 GB,IOS,919
+Apple,iPhone 11 ,Yellow,4GB,128 GB,IOS,1051
+Apple,iPhone 11 ,Red,4GB,256 GB,IOS,1624
+Apple,iPhone 11 Pro Max ,Space Grey,4GB,256 GB,IOS,891
+Apple,iPhone XS Max ,Space Grey,4 GB,64 GB,IOS,2221
+Apple,iPhone XR ,Red,3 GB,256 GB,IOS,865
+Apple,iPhone XR ,White,3 GB,256 GB,IOS,1616
+Apple,iPhone 11 ,Red,4GB,128 GB,IOS,2805
+Apple,iPhone SE ,Black,2 GB,256 GB,IOS,3476
+Apple,iPhone 12 ,Purple,4GB,256 GB,IOS,985
+Apple,iPhone 11 ,Purple,4GB,64 GB,IOS,1155
+Apple,iPhone 6 ,Space Grey,1 GB,64 GB,IOS,3977
+Apple,iPhone 11 Pro Max ,Silver,4GB,64 GB,IOS,1158
+Apple,iPhone 13 Mini ,Blue,6 GB,512 GB,IOS,3368
+Apple,iPhone 11 ,Green,4GB,256 GB,IOS,1994
+Apple,iPhone 11 ,White,4GB,256 GB,IOS,3926
+Apple,iPhone 6 Plus ,Silver,1 GB,128 GB,IOS,1898
+Apple,iPhone 11 Pro ,Space Grey,4GB,512 GB,IOS,2688
+Apple,iPhone 13 Pro Max ,Silver,6 GB,128 GB,IOS,2197
+Apple,iPhone 11 Pro Max ,Gold,4GB,256 GB,IOS,1608
+Apple,iPhone 6s Plus ,Gold,2 GB,16 GB,IOS,548
+Apple,iPhone XR ,Coral,3 GB,64 GB,IOS,2442
+Apple,iPhone 11 Pro ,Gold,4GB,512 GB,IOS,3949
+Apple,iPhone 13 Pro Max ,Sierra Blue,6 GB,256 GB,IOS,3312
+Apple,iPhone 8 ,Red,2 GB,64 GB,IOS,2777
+Apple,iPhone 11 Pro ,Silver,4GB,64 GB,IOS,1830
+Apple,iPhone 11 ,White,4GB,128 GB,IOS,1918
+Apple,iPhone 6 Plus ,Space Grey,1 GB,16 GB,IOS,3897
+Apple,iPhone XS Max ,Silver,4 GB,512 GB,IOS,993
+Apple,iPhone 7 Plus ,Red,3 GB,256 GB,IOS,3794
+Apple,iPhone 6s ,Silver,2 GB,32 GB,IOS,3134
+Apple,iPhone 11 Pro ,Gold,4GB,64 GB,IOS,2248
+Apple,iPhone 13 Pro Max ,Gold,6 GB,1 TB,IOS,1229
+Apple,iPhone 11 Pro ,Midnight Green,4GB,64 GB,IOS,3017
+Apple,iPhone 11 Pro ,Silver,4GB,512 GB,IOS,1455
+Apple,iPhone 7 ,Black,2 GB,32 GB,IOS,844
+Apple,iPhone XS ,Space Grey,4 GB,256 GB,IOS,1345
+Apple,iPhone XS ,Space Grey,4 GB,64 GB,IOS,2805
+Apple,iPhone 11 Pro ,Space Grey,4GB,64 GB,IOS,1728
+Apple,iPhone 7 ,Jet Black,2 GB,32 GB,IOS,3924
+Apple,iPhone 6s Plus ,Rose Gold,2 GB,32 GB,IOS,2285
+Apple,iPhone 7 Plus ,Gold,3 GB,32 GB,IOS,1028
+Apple,iPhone 8 Plus ,Gold,3 GB,256 GB,IOS,3842
+Apple,iPhone 11 Pro ,Silver,4GB,256 GB,IOS,2605
+Apple,iPhone 7 ,Red,2 GB,256 GB,IOS,1866
+Apple,iPhone 7 ,Black,2 GB,128 GB,IOS,562
+Apple,iPhone 6 ,Gold,1 GB,64 GB,IOS,3443
+Apple,iPhone 13 Mini ,Pink,6 GB,512 GB,IOS,1360
+Apple,iPhone 6s ,Space Grey,2 GB,32 GB,IOS,2175
+Apple,iPhone 7 ,Rose Gold,2 GB,32 GB,IOS,3860
+Apple,iPhone XS ,Silver,4 GB,256 GB,IOS,594
+Apple,iPhone 7 Plus ,Black,3 GB,128 GB,IOS,3357
+Apple,iPhone 7 Plus ,Silver,3 GB,32 GB,IOS,3931
+Apple,iPhone 11 Pro ,Midnight Green,4GB,256 GB,IOS,2460
+Apple,iPhone 6s ,Rose Gold,2 GB,16 GB,IOS,3047
+Apple,iPhone 7 ,Gold,2 GB,32 GB,IOS,2520
+Apple,iPhone 11 Pro Max ,Midnight Green,4GB,256 GB,IOS,3352
+Apple,iPhone 6s ,Gold,2 GB,32 GB,IOS,3724
+Apple,iPhone 6s ,Rose Gold,2 GB,32 GB,IOS,3059
+Apple,iPhone XR ,Black,3 GB,256 GB,IOS,1293
+Apple,iPhone 6 ,Silver,1 GB,16 GB,IOS,866
+Apple,iPhone 6 ,Gold,1 GB,128 GB,IOS,2172
+Apple,iPhone XR ,Yellow,3 GB,256 GB,IOS,2986
+Apple,iPhone XR ,Coral,3 GB,128 GB,IOS,3660
+Apple,iPhone 7 ,Silver,2 GB,32 GB,IOS,3568
+Apple,iPhone 11 Pro Max ,Midnight Green,4GB,512 GB,IOS,1352
+Apple,iPhone 6s Plus ,Rose Gold,2 GB,128 GB,IOS,1170
+Apple,iPhone 7 Plus ,Silver,3 GB,256 GB,IOS,2814
+Apple,iPhone 7 ,Jet Black,2 GB,128 GB,IOS,3733
+Apple,iPhone 6s ,Gold,2 GB,64 GB,IOS,2236
+Apple,iPhone 7 Plus ,Jet Black,3 GB,256 GB,IOS,557
+Apple,iPhone 11 ,Purple,4GB,128 GB,IOS,2014
+Apple,iPhone 6s ,Gold,2 GB,128 GB,IOS,1517
+Apple,iPhone 11 Pro Max ,Space Grey,4GB,512 GB,IOS,670
+Apple,iPhone 13 Pro ,Graphite,6 GB,1 TB,IOS,2329
+Apple,iPhone 6 ,Gold,1 GB,16 GB,IOS,1526
+Apple,iPhone 6s Plus ,Rose Gold,2 GB,16 GB,IOS,2719
+Apple,iPhone 8 Plus ,Red,3 GB,64 GB,IOS,2420
+Apple,iPhone 13 Pro ,Silver,6 GB,1 TB,IOS,1298
+Apple,iPhone 13 Pro ,Silver,6 GB,512 GB,IOS,1584
+Apple,iPhone 6s ,Gold,2 GB,16 GB,IOS,2962
+Apple,iPhone 6s Plus ,Silver,2 GB,16 GB,IOS,2825
+Apple,iPhone 13 Pro ,Sierra Blue,6 GB,1 TB,IOS,1743
+Apple,iPhone 6 ,Grey,1 GB,128 GB,IOS,2991
+Apple,iPhone 13 Pro Max ,Silver,6 GB,512 GB,IOS,2176
+Apple,iPhone 11 Pro Max ,Silver,4GB,512 GB,IOS,1937
+Apple,iPhone 13 Pro Max ,Sierra Blue,6 GB,512 GB,IOS,2199
+Apple,iPhone 13 Pro ,Gold,6 GB,512 GB,IOS,3375
+Apple,iPhone 6s Plus ,Gold,2 GB,64 GB,IOS,3976
+Apple,iPhone 13 Pro ,Gold,6 GB,1 TB,IOS,2632
+Apple,iPhone 6s Plus ,Space Grey,2 GB,64 GB,IOS,1619
+Apple,iPhone 13 Pro Max ,Graphite,6 GB,512 GB,IOS,2775
+Apple,iPhone 6s ,Silver,2 GB,64 GB,IOS,1887
+Apple,iPhone XS Max ,Gold,4 GB,512 GB,IOS,2252
+Apple,iPhone X ,Silver,3 GB,64 GB,IOS,3629
+Apple,iPhone 13 Pro Max ,Graphite,6 GB,1 TB,IOS,3520
+Apple,iPhone 7 Plus ,Silver,3 GB,128 GB,IOS,827
+Apple,iPhone XS ,Silver,4 GB,512 GB,IOS,2784
+Apple,iPhone 6 ,Gold,1 GB,32 GB,IOS,1321
+Apple,iPhone 6 ,Space Grey,1 GB,32 GB,IOS,3014
+Apple,iPhone 13 Mini ,Midnight,6 GB,512 GB,IOS,2938
+Apple,iPhone 6 ,Silver,1 GB,128 GB,IOS,3688
+Apple,iPhone 6s Plus ,Rose Gold,2 GB,64 GB,IOS,830
+Apple,iPhone 6s Plus ,Space Grey,2 GB,32 GB,IOS,3782
+Apple,iPhone 7 Plus ,Rose Gold,3 GB,256 GB,IOS,1669
+Apple,iPhone 6 ,Space Grey,1 GB,16 GB,IOS,519
+Apple,iPhone 7 Plus ,Rose Gold,3 GB,32 GB,IOS,2788
+Apple,iPhone 6s ,Space Grey,2 GB,16 GB,IOS,2864
+Apple,iPhone 8 ,Silver,2 GB,64 GB,IOS,3349
+Apple,iPhone 7 Plus ,Gold,3 GB,256 GB,IOS,3132
+Apple,iPhone XS Max ,Gold,4 GB,64 GB,IOS,756
+Apple,iPhone 13 Mini ,Red,6 GB,512 GB,IOS,2980
+Apple,iPhone XS Max ,Silver,4 GB,64 GB,IOS,3110
+Apple,iPhone 6s Plus ,Gold,2 GB,32 GB,IOS,2456
+Apple,iPhone 6 Plus ,Silver,1 GB,64 GB,IOS,3064
+Apple,iPhone XS ,Gold,4 GB,256 GB,IOS,3309
+Apple,iPhone 6 Plus ,Space Grey,1 GB,64 GB,IOS,2762
+Apple,iPhone XS ,Silver,4 GB,64 GB,IOS,2680
+Apple,iPhone 7 Plus ,Jet Black,3 GB,128 GB,IOS,1927
+Apple,iPhone 7 Plus ,Gold,3 GB,128 GB,IOS,3335
+Apple,iPhone 7 Plus ,Black,3 GB,256 GB,IOS,2457
+Apple,iPhone 7 ,Silver,2 GB,128 GB,IOS,3359
+Apple,iPhone 6s ,Silver,2 GB,128 GB,IOS,788
+Apple,iPhone 6s Plus ,Silver,2 GB,32 GB,IOS,2639
+Apple,iPhone 11 Pro ,Gold,4GB,256 GB,IOS,1761
+Apple,iPhone 7 Plus ,Red,3 GB,128 GB,IOS,1469
+Apple,iPhone 13 Mini ,Starlight,6 GB,512 GB,IOS,2760
+Apple,iPhone 7 ,Rose Gold,2 GB,128 GB,IOS,3914
+Apple,iPhone XS ,Gold,4 GB,64 GB,IOS,752
+Apple,iPhone XS ,Gold,4 GB,64 GB,IOS,2675
+Apple,iPhone 13 Pro ,Graphite,6 GB,512 GB,IOS,3229
+Apple,iPhone XS Max ,Silver,4 GB,256 GB,IOS,3025
+Apple,iPhone 7 ,Red,2 GB,128 GB,IOS,1215
+Apple,iPhone 11 Pro ,Space Grey,4GB,256 GB,IOS,3172
+Apple,iPhone 7 Plus ,Rose Gold,3 GB,128 GB,IOS,807
+Apple,iPhone 6s Plus ,Silver,2 GB,64 GB,IOS,2190
+Apple,iPhone XS Max ,Gold,4 GB,256 GB,IOS,2908
+Apple,iPhone XS Max ,Space Grey,4 GB,512 GB,IOS,920
+Apple,iPhone 7 ,Black,2 GB,256 GB,IOS,3280
+Apple,iPhone 6 Plus ,Silver,1 GB,16 GB,IOS,2270
+Apple,iPhone 13 Pro Max ,Silver,6 GB,1 TB,IOS,3528
+Apple,iPhone 7 ,Gold,2 GB,256 GB,IOS,1109
+Apple,iPhone XS Max ,Space Grey,4 GB,256 GB,IOS,912
+Apple,iPhone 7 ,Rose Gold,2 GB,256 GB,IOS,2716
+Apple,iPhone X ,Space Gray,3 GB,256 GB,IOS,1602
+Apple,iPhone 7 ,Jet Black,2 GB,256 GB,IOS,3145
+Apple,iPhone 6s ,Rose Gold,2 GB,64 GB,IOS,1981
+Apple,iPhone 6s Plus ,Silver,2 GB,128 GB,IOS,1075
+Apple,iPhone 11 ,Black,4GB,64 GB,IOS,1387
+Apple,iPhone 6 Plus ,Space Grey,1 GB,128 GB,IOS,3696
+Apple,iPhone 6 Plus ,Gold,1 GB,64 GB,IOS,2637
+Apple,iPhone 11 ,Yellow,4GB,64 GB,IOS,1263
+Apple,iPhone 6 ,Silver,1 GB,64 GB,IOS,3116
+Apple,iPhone X ,Silver,3 GB,256 GB,IOS,2515
+Apple,iPhone 11 ,Black,4GB,128 GB,IOS,3228
+Apple,iPhone 6s ,Space Grey,2 GB,64 GB,IOS,938
+Apple,iPhone 11 ,Green,4GB,256 GB,IOS,3849
+Apple,iPhone 6s ,Rose Gold,2 GB,128 GB,IOS,514
+Apple,iPhone 6s Plus ,Space Grey,2 GB,16 GB,IOS,3228
+Apple,iPhone 7 Plus ,Jet Black,3 GB,32 GB,IOS,715
+Apple,iPhone 6s ,Silver,2 GB,16 GB,IOS,732
+Apple,iPhone X ,Space Gray,3 GB,64 GB,IOS,1711
+Apple,iPhone 6s,Silver,2 GB,32 GB,IOS,2911
+Apple,iPhone 13 ,Green,4GB,512 GB,IOS,2986
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,256 GB,IOS,3660
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,1 TB,IOS,3568
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,512 GB,IOS,1352
+Apple,iPhone 13 Pro,Alpine Green,4GB,512 GB,IOS,1170
+Apple,iPhone 13 mini,Green,4GB,128 GB,IOS,2814
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,128 GB,IOS,3733
+Apple,iPhone 13 mini,Green,4GB,512 GB,IOS,2236
+Apple,iPhone 13 Pro Max,Silver,4GB,1 TB,IOS,557
+Apple,iPhone 13 Pro Max,Sierra Blue,4GB,256 GB,IOS,2014
+Apple,iPhone 13 Pro Max,Gold,4GB,256 GB,IOS,1517
+Apple,iPhone 13 Pro Max,Silver,4GB,512 GB,IOS,670
+Apple,iPhone 13 Pro Max,Graphite,4GB,512 GB,IOS,2329
+Apple,iPhone 13 Pro Max,Silver,4GB,128 GB,IOS,1526
+Apple,iPhone 13 Pro Max,Gold,4GB,128 GB,IOS,2719
+Apple,iPhone 13 Pro Max,Gold,4GB,1 TB,IOS,2420
+Apple,iPhone 13 Pro Max,Graphite,4GB,128 GB,IOS,1298
+Apple,iPhone 13 Pro Max,Graphite,4GB,256 GB,IOS,1584
+Apple,iPhone 13 Pro Max,Silver,4GB,256 GB,IOS,2962
+Apple,iPhone 13 Pro Max,Sierra Blue,4GB,512 GB,IOS,2825
+Apple,iPhone 13 Pro Max,Gold,4GB,512 GB,IOS,1743
+Apple,iPhone 13 Pro Max,Graphite,4GB,1 TB,IOS,2991
+Apple,iPhone 13 Pro Max,Sierra Blue,4GB,1 TB,IOS,2176
+LG,W11 ,Black,3 GB,32 GB,Android,2339
+LG,Velvet Dual Screen ,Aurora Silver,6 GB,128 GB,Android,2400
+LG,Q60 ,Blue,3 GB,64 GB,Android,2628
+LG,L90 Dual ,White,1 GB,8 GB,Android,996
+LG,W31 ,Midnight Blue,4 GB,64 GB,Android,1771
+LG,W31 Plus ,Midnight Blue,4 GB,128 GB,Android,842
+LG,K42 ,Grey,3 GB,64 GB,Android,3731
+LG,Velvet Dual Screen ,Black,6 GB,128 GB,Android,1761
+LG,W31 ,midnight blue,4 GB,64 GB,Android,3138
+LG,W30 Pro ,Midnight Purple,4 GB,64 GB,Android,3114
+LG,W30 Pro ,Midnight Blue,4 GB,64 GB,Android,2364
+LG,Candy K9 ,Moroccan Blue,2 GB,16 GB,Android,2216
+LG,K9 4G LTE ,Black,2 GB,16 GB,Android,3874
+LG,W10 ,Smokey Gray,3 GB,32 GB,Android,2952
+LG,W30 Pro ,Midnight Purple,4 GB,64 GB,Android,2126
+LG,K-10 ,Black Blue,2 GB,16 GB,Android,1079
+LG,W41 ,MAGIC BLUE,4 GB,64 GB,Android,2684
+LG,Q Stylus+ ,Black,4 GB,64 GB,Android,1905
+LG,W10 Alpha ,Black,3 GB,32 GB,Android,2766
+LG,W30 ,Thunder Blue,3 GB,32 GB,Android,3255
+LG,W30 Plus ,Thunder blue,4 GB,64 GB,Android,2824
+LG,G7+ ThinQ ,Platinum,6 GB,128 GB,Android,1001
+LG,Stylus 2 ,Titan,2 GB,16 GB,Android,2962
+LG,K42 ,Green,3 GB,64 GB,Android,1048
+LG,Max X160 ,Silver Titan,1 GB,8 GB,Android,3333
+LG,W30 Plus ,Aurora Green,4 GB,64 GB,Android,2040
+LG,V20 ,Silver,4 GB,64 GB,Android,3908
+LG,G8X ,Black,6 GB,128 GB,Android,849
+LG,V40 ThinQ ,Platinum Grey,6 GB,128 GB,Android,1578
+LG,K7i ,Brown,2 GB,16 GB,Android,2016
+LG,Nexus4 E960,White,2 GB,16 GB,Android,3919
+LG,G7 ThinQ ,Black,4 GB,64 GB,Android,2228
+LG,G7 ThinQ ,Platinum,4 GB,64 GB,Android,2871
+LG,G5 ,Silver,4 GB,32 GB,Android,2759
+LG,Q6+ ,Platinum,4 GB,64 GB,Android,1989
+LG,Spirit 4G LTE ,Black Titan,1 GB,8 GB,Android,3140
+LG,Velvet ,AURORA SILVER,6 GB,128 GB,Android,904
+LG,W41 Plus ,Magic Blue,4 GB,128 GB,Android,3760
+LG,W41 ,Magic Blue,4 GB,64 GB,Android,3826
+LG,Wing ,Aurora Gray,8 GB,128 GB,Android,1533
+LG,W41 Pro ,Laser Blue,6 GB,128 GB,Android,3704
+LG,G7+ ThinQ ,Black,6 GB,128 GB,Android,874
+LG,Optimus L70 ,Black,1 GB,4 GB,Android,3876
+LG,L60 Dual ,White,512 MB,4 GB,Android,2586
+LG,K8 ,Black & Blue,2 GB,16 GB,Android,3703
+LG,G Pro 2 ,Titan,3 GB,16 GB,Android,2271
+LG,Optimus L5 II ,Black,512 MB,4 GB,Android,2729
+LG,W30 ,Aurora Green,3 GB,32 GB,Android,2930
+LG,V30+ ,Silver,4 GB,128 GB,Android,1070
+LG,V30+ ,Black,4 GB,128 GB,Android,1506
+LG,G2 D802 ,Black Gold,2 GB,16 GB,Android,3830
+LG,Q Stylus ,Black,3 GB,32 GB,Android,2530
+LG,Q6 ,Platinum,3 GB,32 GB,Android,1235
+LG,G6 ,Black,4 GB,64 GB,Android,2966
+LG,K10 2017 ,Titan,2 GB,16 GB,Android,732
+LG,K10 2017 ,Gold & Black,2 GB,16 GB,Android,538
+LG,Wing ,Illusion Sky,8 GB,128 GB,Android,554
+LG,V20a ,Titan,4 GB,64 GB,Android,2159
+LG,G7+ ThinQ ,Blue,6 GB,128 GB,Android,604
+LG,K10 K420DS ,Black Gold,2 GB,16 GB,Android,1526
+LG,Q6 ,Black,3 GB,32 GB,Android,779
+LG,Q6 ,Gold,3 GB,32 GB,Android,996
+LG,Q7 ,Black,3 GB,32 GB,Android,2266
+LG,X Power ,Black,2 GB,16 GB,Android,2621
+LG,Stylus 2 Plus ,Titan,3 GB,16 GB,Android,3741
+LG,Q6+ ,Black,4 GB,64 GB,Android,2004
+LG,K-7 ,Titan,1.5 GB,8 GB,Android,1349
+LG,G3 Beat ,White,1 GB,8 GB,Android,2071
+LG,G8s ThinQ ,Black,6 GB,128 GB,Android,1232
+LG,Q6+ ,Blue,4 GB,64 GB,Android,2799
+LG,G4 ,Red,3 GB,32 GB,Android,1864
+LG,G4 ,Genuine Leather Black,3 GB,32 GB,Android,3901
+LG,Stylus 2 ,Brown,2 GB,16 GB,Android,1228
+LG,Stylus 3 ,Titan,3 GB,16 GB,Android,3277
+LG,Stylus 2 ,Brown,2 GB,16 GB,Android,1611
+LG,L Bello ,Black Titan,1 GB,8 GB,Android,2019
+LG,G4 Stylus 4G LTE ,Titan,1 GB,16 GB,Android,2159
+LG,X Cam ,Titan Silver,2 GB,16 GB,Android,3738
+LG,Optimus L3 II E425 ,Black,512 MB,4 GB,Android,2132
+LG,Optimus L7 II Dual ,White,768 MB,4 GB,Android,1738
+LG,V20 ,Pink,4 GB,64 GB,Android,1518
+LG,K10 2017 ,Black,2 GB,16 GB,Android,3524
+LG,G5 ,Titan,4 GB,32 GB,Android,1881
+LG,W30 ,Platinum Grey,3 GB,32 GB,Android,1124
+LG,G4 ,Metallic Gray,3 GB,32 GB,Android,1569
+LG,G6 ,White,4 GB,64 GB,Android,3082
+LG,G6 ,Blue,4 GB,64 GB,Android,1597
+LG,G5 ,Gold,4 GB,32 GB,Android,1581
+LG,L 80 Dual ,White,1 GB,4 GB,Android,1877
+LG,G3 Stylus ,Black Titan,1 GB,8 GB,Android,2926
+LG,Q7 ,Moroccan Blue,3 GB,32 GB,Android,3286
+LG,Q7 ,Lavender Violet,3 GB,32 GB,Android,3719
+LG,Q7+ ,Moroccan Blue,4 GB,64 GB,Android,2832
+LG,Q7+ ,Lavender Violet,4 GB,64 GB,Android,2923
+LG,X Screen K500I ,Black,2 GB,16 GB,Android,3661
+LG,Q7+ ,Black,4 GB,64 GB,Android,2184
+LG,Spirit ,Black Titan,1 GB,8 GB,Android,2378
+LG,Spirit ,Black Gold,1 GB,8 GB,Android,1871
+LG,G4 ,Genuine Leather Brown,3 GB,32 GB,Android,836
+Nokia,105 DS 2020,Black,4 MB,4 MB,Android,3619
+Nokia,TA-1010/105,Black,4 MB,4 MB,Android,2874
+Nokia,TA-1010/105,Black,4 MB,4 MB,Android,1719
+Nokia,105 DS 2020,Black,4 MB,4 MB,Android,2070
+Nokia,110 TA-1302 DS,Black,4 MB,4 MB,Android,3111
+Nokia,216 DS,Black,16 MB,2 MB,Android,3904
+Nokia,150 DS 2020,Black,4 MB,4 MB,Android,1362
+Nokia,110 TA-1302 DS,Black,4 MB,4 MB,Android,502
+Nokia,110 4G,Black,128 MB,48 MB,Android,842
+Nokia,110 4G,Black,128 MB,48 MB,Android,3164
+Nokia,150 TA-1235 DS,Black,4 MB,4 MB,Android,3596
+Nokia,105 DS 2020,Black,4 MB,4 MB,Android,3713
+Nokia,105 SS 2021,Black,4 MB,4 MB,Android,2024
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,3890
+Nokia,125 DS,Black,4 MB,4 MB,Android,2282
+Nokia,5310ds,Black,8 MB,16 MB,Android,1865
+Nokia,3310 DS 2020,Black,16 MB,Expandable Upto 32 GB,Android,1366
+Nokia,110 4G,Black,128 MB,48 MB,Android,827
+Nokia,125 TA-1253 DS,Black,4 MB,4 MB,Android,2156
+Nokia,150 DS 2020,Black,4 MB,4 MB,Android,2093
+Nokia,110 TA-1302 DS,Black,4 MB,4 MB,Android,1418
+Nokia,3310 DS 2020,Black,16 MB,Expandable Upto 32 GB,Android,2487
+Nokia,C20 Plus ,Grey,3 GB,32 GB,Android,3166
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,1145
+Nokia,G20 ,Glacier Blue,4 GB,64 GB,Android,698
+Nokia,3310 DS 2020,Black,16 MB,Expandable Upto 32 GB,Android,650
+Nokia,TA-1174 / TA-1299,Black,4 MB,4 MB,Android,1727
+Nokia,C3 ,Nordic Blue,2 GB,16 GB,Android,720
+Nokia,C20 Plus ,Grey,2 GB,32 GB,Android,2259
+Nokia,C20 Plus ,Blue,3 GB,32 GB,Android,1776
+Nokia,G10 ,Night | Dark Blue,4 GB,64 GB,Android,1618
+Nokia,G10 ,Dusk | Purple,4 GB,64 GB,Android,855
+Nokia,125 DS 2020,Black,4 MB,4 MB,Android,3964
+Nokia,C20 Plus ,Blue,2 GB,32 GB,Android,560
+Nokia,5310 TA-1212 DS,Black,8 MB,16 MB,Android,3282
+Nokia,C3 ,Sand,3 GB,32 GB,Android,2854
+Nokia,216 DS 2020,Black,16 MB,16 MB,Android,885
+Nokia,215 4G DS 2020,Black,64 MB,128 MB,Android,1287
+Nokia,225 4g ds,Black,64 MB,128 MB,Android,1552
+Nokia,225 4G DS 2020,Black,64 MB,128 MB,Android,742
+Nokia,216 DS 2020,Black,16 MB,16 MB,Android,2262
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,2351
+Nokia,215 4G DS,Black,64 MB,128 MB,Android,1682
+Nokia,105 SS 2021,Black,4 MB,4 MB,Android,838
+Nokia,C3 ,Nordic Blue,3 GB,32 GB,Android,1581
+Nokia,105 DS,Black,4 MB,4 MB,Android,586
+Nokia,108 Dual SIM,Black,4 MB,4 MB,Android,835
+Nokia,107 Dual SIM,Black,4 MB,Expandable Upto 16 GB,Android,2492
+Nokia,105 DS,Black,4 MB,4 MB,Android,3888
+Nokia,C3 ,Sand,2 GB,16 GB,Android,2399
+Nokia,G20 ,Night,4 GB,64 GB,Android,2087
+Nokia,150/150 DS,Black,4 MB,4 MB,Android,1658
+Nokia,225 4G DS 2020,Black,64 MB,128 MB,Android,763
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,3120
+Nokia,3310 DS 2020,Black,16 MB,Expandable Upto 32 GB,Android,3915
+Nokia,5.1 Plus ,Black,3 GB,32 GB,Android,3732
+Nokia,Ta -1010/105,Black,4 MB,4 MB,Android,2771
+Nokia,107 Dual SIM,Black,4 MB,Expandable Upto 16 GB,Android,2068
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,2393
+Nokia,C01 Plus ,Grey,2 GB,16 GB,Android,2323
+Nokia,108 Dual SIM,Black,4 MB,4 MB,Android,2203
+Nokia,215 4G DS 2020,Black,64 MB,128 MB,Android,840
+Nokia,150/150 DS,Black,4 MB,4 MB,Android,3617
+Nokia,Lumia 920 ,Black,1 GB,32 GB,Android,1261
+Nokia,3.1 Plus ,Charcoal,3 GB,32 GB,Android,1494
+Nokia,3.1 Plus ,Baltic,3 GB,32 GB,Android,3010
+Nokia,Asha 503 ,White,512 MB,Expandable Upto 32 GB,Android,1936
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,2012
+Nokia,5.1 Plus ,White,3 GB,32 GB,Android,801
+Nokia,3.1 Plus ,White,3 GB,32 GB,Android,2847
+Nokia,8 Sirocco ,Black,6 GB,128 GB,Android,2466
+Nokia,RM-1172 / Nokia 230 DS,Black,16 MB,256 MB,Android,1083
+Nokia,Lumia 625 ,White,512 MB,8 GB,Android,2960
+Nokia,6.1 Plus ,Blue,6 GB,64 GB,Android,950
+Nokia,Asha 311 ,Dark Grey,512 MB,140 MB,Android,1738
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,949
+Nokia,8110 4G,Black,512 MB,4 GB,Android,2370
+Nokia,X2 Dual SIM ,Bright Green,1 GB,4 GB,Android,1051
+Nokia,6.1 Plus ,White,4 GB,64 GB,Android,2334
+Nokia,5.1 Plus ,Black,3 GB,32 GB,Android,1738
+Nokia,5.1 Plus ,Black,4 GB,64 GB,Android,2815
+Nokia,Lumia 510 ,Black,512 MB,4 GB,Android,3889
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,947
+Nokia,7 Plus ,White & Copper,4 GB,64 GB,Android,1053
+Nokia,6.1 Plus ,Black,6 GB,64 GB,Android,1871
+Nokia,Asha 206,Black,32 MB,64 MB,Android,554
+Nokia,5.1 Plus ,Blue,4 GB,64 GB,Android,2127
+Nokia,6.1 Plus ,Blue,4 GB,64 GB,Android,1285
+Nokia,Asha 502 ,Yellow,64 MB,Expandable Upto 32 GB,Android,1639
+Nokia,5.1 Plus ,Black,6 GB,64 GB,Android,3874
+Nokia,C01 Plus ,Blue,2 GB,16 GB,Android,979
+Nokia,3.1 Plus ,Blue,3 GB,32 GB,Android,1738
+Nokia,Asha 206,Black,32 MB,64 MB,Android,1249
+Nokia,Asha 502 ,Bright Red,64 MB,Expandable Upto 32 GB,Android,2693
+Nokia,XPlus ,Bright Green,768 MB,4 GB,Android,3606
+Nokia,5.1 Plus ,Blue,6 GB,64 GB,Android,3458
+Nokia,7 Plus ,Black & Copper,4 GB,64 GB,Android,2033
+Nokia,XR 20,Grey ,6 GB,128 GB,Android,1763
+realme,C11 2021 ,Cool Blue,4 GB,64 GB,Android,1760
+realme,C11 2021 ,Cool Blue,2 GB,32 GB,Android,2528
+realme,C11 2021 ,Cool Grey,2 GB,32 GB,Android,2219
+realme,Narzo 30 5G ,Racing Blue,4 GB,64 GB,Android,2799
+realme,Narzo 30 5G ,Racing Silver,4 GB,64 GB,Android,1633
+realme,C20 ,Cool Blue,2 GB,32 GB,Android,3079
+realme,GT 5G ,Racing Yellow,12 GB,256 GB,Android,3347
+realme,X3 ,Arctic White,8 GB,128 GB,Android,2964
+realme,C15 Qualcomm Edition ,Power Blue,3 GB,32 GB,Android,3540
+realme,X3 SuperZoom ,Arctic White,8 GB,256 GB,Android,1975
+realme,X3 SuperZoom ,Arctic White,12 GB,256 GB,Android,1480
+realme,X3 SuperZoom ,Glacier Blue,12 GB,256 GB,Android,1298
+realme,X7 Pro 5G ,Mystic Black,8 GB,128 GB,Android,1601
+realme,C2 ,Diamond Black,2 GB,32 GB,Android,1597
+realme,X3 SuperZoom ,Arctic White,8 GB,256 GB,Android,2096
+realme,X3 SuperZoom ,Arctic White,12 GB,256 GB,Android,2261
+realme,X3 SuperZoom ,Glacier Blue,12 GB,256 GB,Android,3312
+realme,GT Master Edition ,Cosmos Black,6 GB,128 GB,Android,1260
+realme,6i ,Eclipse Black,6 GB,64 GB,Android,2515
+realme,6i ,Lunar White,4 GB,64 GB,Android,1273
+realme,X2 ,Pearl White,4 GB,64 GB,Android,3836
+realme,5i ,Aqua Blue,4 GB,64 GB,Android,3782
+realme,X ,Space Blue,4 GB,128 GB,Android,3256
+realme,Narzo 50i ,Mint Green,2 GB,32 GB,Android,1092
+realme,Narzo 50i ,Carbon Black,2 GB,32 GB,Android,2912
+realme,Narzo 50A ,Oxygen Blue,4 GB,128 GB,Android,2197
+realme,Narzo 50A ,Oxygen Green,4 GB,64 GB,Android,3611
+realme,Narzo 50A ,Oxygen Blue,4 GB,64 GB,Android,3909
+realme,X2 ,Pearl Green,8 GB,128 GB,Android,3146
+realme,X ,Space Blue,8 GB,128 GB,Android,3830
+realme,Narzo 50A ,Oxygen Green,4 GB,128 GB,Android,1621
+realme,C21Y ,Cross Black,3 GB,32 GB,Android,2132
+realme,C21Y ,Cross Blue,3 GB,32 GB,Android,1260
+realme,Narzo 30A ,Laser Blue,4 GB,64 GB,Android,2515
+realme,Narzo 30A ,Laser Black,4 GB,64 GB,Android,1273
+realme,Narzo 30A ,Laser Blue,3 GB,32 GB,Android,3836
+realme,C15 ,Power Silver,4 GB,64 GB,Android,3782
+realme,C15 ,Power Blue,4 GB,64 GB,Android,3256
+realme,8 Pro ,Infinite Blue,6 GB,128 GB,Android,1092
+realme,C15 ,Power Silver,3 GB,32 GB,Android,2912
+realme,8 Pro ,Illuminating Yellow,8 GB,128 GB,Android,2197
+realme,8 Pro ,Illuminating Yellow,6 GB,128 GB,Android,3611
+realme,C25 ,Watery Grey,4 GB,64 GB,Android,3909
+realme,C25 ,Watery Blue,4 GB,64 GB,Android,3146
+realme,3i ,Diamond Red,3 GB,32 GB,Android,1033
+realme,5 Pro ,Crystal Green,8 GB,128 GB,Android,2599
+realme,C12 ,Power Blue,4 GB,64 GB,Android,2083
+realme,7 Pro ,Sun Kissed Leather,6 GB,128 GB,Android,1182
+realme,Narzo 20 Pro ,Black Ninja,8 GB,128 GB,Android,1772
+realme,Narzo 20 Pro ,White Knight,6 GB,64 GB,Android,1032
+realme,Narzo 20 Pro ,White Knight,8 GB,128 GB,Android,2286
+realme,7i ,Fusion Blue,4 GB,128 GB,Android,2124
+realme,X3 SuperZoom ,Arctic White,8 GB,128 GB,Android,3384
+realme,Narzo 20A ,Glory Silver,3 GB,32 GB,Android,1622
+realme,Narzo 20 ,Glory Silver,4 GB,64 GB,Android,3717
+realme,Narzo 20 ,Victory Blue,4 GB,64 GB,Android,2339
+realme,Narzo 20A ,Glory Silver,4 GB,64 GB,Android,2275
+realme,Narzo 20 ,Glory Silver,4 GB,128 GB,Android,2495
+realme,Narzo 10A ,So White,4 GB,64 GB,Android,3944
+realme,Narzo 10 ,That Green,4 GB,128 GB,Android,852
+realme,Narzo 10 ,That White,4 GB,128 GB,Android,2975
+realme,Narzo 20 ,Victory Blue,4 GB,128 GB,Android,1079
+realme,Narzo 20A ,Victory Blue,4 GB,64 GB,Android,3195
+realme,C2 ,Diamond Black,2 GB,16 GB,Android,2343
+realme,Narzo 20A ,Victory Blue,3 GB,32 GB,Android,3395
+realme,6 Pro ,Lightning Red,8 GB,128 GB,Android,3655
+realme,Narzo 10A ,So Blue,3 GB,32 GB,Android,2446
+realme,Narzo 10A ,So White,3 GB,32 GB,Android,2148
+realme,Narzo 10 ,That Blue,4 GB,128 GB,Android,2683
+realme,U1 ,Ambitious Black,3 GB,32 GB,Android,1329
+realme,U1 ,Fiery Gold,3 GB,32 GB,Android,3108
+realme,X2 Pro ,Lunar White,8 GB,128 GB,Android,1893
+realme,U1 ,Brave Blue,4 GB,64 GB,Android,2622
+realme,6 Pro ,Lightning Blue,6 GB,64 GB,Android,1725
+realme,U1 ,Fiery Gold,4 GB,64 GB,Android,2375
+realme,5s ,Crystal Blue,4 GB,128 GB,Android,3838
+realme,C3 ,Blazing Red,4 GB,64 GB,Android,1733
+realme,X3 ,Glacier Blue,8 GB,128 GB,Android,620
+realme,U1 ,Fiery Gold,3 GB,64 GB,Android,1165
+realme,6 Pro ,Lightning Red,6 GB,64 GB,Android,1225
+realme,X2 ,Pearl Green,4 GB,64 GB,Android,625
+realme,X2 ,Pearl Blue,4 GB,64 GB,Android,705
+realme,6 Pro ,Lightning Blue,8 GB,128 GB,Android,989
+realme,C2 ,Diamond Blue,3 GB,32 GB,Android,3175
+realme,C2 ,Diamond Sapphire,3 GB,32 GB,Android,3065
+realme,C2 ,Diamond Ruby,3 GB,32 GB,Android,931
+realme,5i ,Forest Green,4 GB,64 GB,Android,3506
+realme,X2 ,Pearl Blue,6 GB,128 GB,Android,3344
+realme,6 Pro ,Lightning Red,6 GB,128 GB,Android,3986
+realme,6 Pro ,Lightning Orange,6 GB,128 GB,Android,2288
+realme,X2 ,Pearl White,8 GB,128 GB,Android,2509
+SAMSUNG,Galaxy S6 ,White Pearl,3 GB,64 GB,Android,2093
+SAMSUNG,Grand Prime ,White,1 GB,8 GB,Android,1418
+SAMSUNG,Galaxy S10 Plus ,Prism Black,8 GB,128 GB,Android,2487
+SAMSUNG,Galaxy S9 ,Midnight Black,4 GB,256 GB,Android,3166
+SAMSUNG,Galaxy S8 Plus ,Midnight Black,6 GB,128 GB,Android,1145
+SAMSUNG,Galaxy M30s ,Black,4 GB,64 GB,Android,698
+SAMSUNG,Galaxy A5 ,Black,2 GB,16 GB,Android,650
+SAMSUNG,Rex 60,Black,30 MB,Expandable Upto 16 GB,Android,1727
+SAMSUNG,Galaxy A30s ,Prism Crush White,4 GB,128 GB,Android,720
+SAMSUNG,Galaxy Grand Neo Plus ,Midnight Black,1 GB,8 GB,Android,2259
+SAMSUNG,Grand Prime 4G ,White,1 GB,8 GB,Android,1776
+SAMSUNG,Galaxy A71 ,Prism Crush Black,8 GB,128 GB,Android,1618
+SAMSUNG,Galaxy S10 Lite ,Prism Blue,8 GB,128 GB,Android,855
+SAMSUNG,Galaxy Note 4 ,Frost White,3 GB,32 GB,Android,3964
+SAMSUNG,Galaxy Note 8 ,Maple Gold,6 GB,64 GB,Android,560
+SAMSUNG,Galaxy A8 Star ,White,6 GB,64 GB,Android,3282
+SAMSUNG,Galaxy Grand Neo Plus ,Gold,1 GB,8 GB,Android,2854
+SAMSUNG,Galaxy S6 Edge ,Gold Platinum,3 GB,32 GB,Android,885
+SAMSUNG,Galaxy S7 ,Silver Titanium,4 GB,32 GB,Android,1287
+SAMSUNG,Galaxy S7 ,Gold Platinum,4 GB,32 GB,Android,1552
+SAMSUNG,Metro XL,Black,64 MB,128 MB,Android,742
+SAMSUNG,Galaxy S3 Neo ,Marble White,1.5 GB,16 GB,Android,2262
+SAMSUNG,Galaxy A5 ,Champagne Gold,2 GB,16 GB,Android,2351
+SAMSUNG,Galaxy E5 ,Brown,1.5 GB,16 GB,Android,1682
+SAMSUNG,Galaxy J2 Pro ,Silver,2 GB,16 GB,Android,838
+SAMSUNG,Galaxy Core ,Metallic Blue,1 GB,8 GB,Android,1581
+SAMSUNG,Galaxy A7-2017 ,Black Sky,3 GB,32 GB,Android,586
+SAMSUNG,Z2 ,Gold,1 GB,8 GB,Android,835
+SAMSUNG,Galaxy Note 4 ,Bronze Gold,3 GB,32 GB,Android,2492
+SAMSUNG,Galaxy M30 ,Gradation Blue,6 GB,128 GB,Android,3888
+SAMSUNG,Galaxy S20 ,Cloud Blue,8 GB,128 GB,Android,2399
+SAMSUNG,Galaxy J2 Ace ,Black,1.5 GB,8 GB,Android,2087
+SAMSUNG,Galaxy A8 Plus ,Black,6 GB,64 GB,Android,1658
+SAMSUNG,Galaxy A9 Pro ,Gold,4 GB,32 GB,Android,763
+SAMSUNG,Galaxy A52 ,Awesome White,6 GB,128 GB,Android,3120
+SAMSUNG,Galaxy S6 ,Black Sapphire,3 GB,32 GB,Android,3915
+SAMSUNG,Grand Prime ,Grey,1 GB,8 GB,Android,3732
+SAMSUNG,Galaxy A52 ,Awesome White,8 GB,128 GB,Android,2771
+SAMSUNG,Galaxy J1 Ace ,White,512 MB,4 GB,Android,2068
+SAMSUNG,Galaxy M30 ,Gradation Black,6 GB,128 GB,Android,2393
+SAMSUNG,Galaxy Star Pro ,White,512 MB,4 GB,Android,2323
+SAMSUNG,Galaxy J2 Pro ,Gold,2 GB,16 GB,Android,2203
+SAMSUNG,Galaxy Trend ,Midnight Black,512 MB,4 GB,Android,840
+SAMSUNG,Sm-G361Hhadins ,Charcoal Gray,1 GB,8 GB,Android,3617
+SAMSUNG,Galaxy M30s ,Blue,6 GB,128 GB,Android,1261
+SAMSUNG,Guru FM Plus,Black,4 MB,4 MB,Android,1494
+SAMSUNG,Galaxy E5 ,White,1.5 GB,16 GB,Android,3010
+SAMSUNG,Galaxy Grand Quattro ,Ceramic White,1 GB,8 GB,Android,1936
+SAMSUNG,On7 Pro ,Black,2 GB,16 GB,Android,2012
+SAMSUNG,Galaxy Grand I9082 ,Metallic Blue,1 GB,8 GB,Android,801
+SAMSUNG,Galaxy M30s ,Black,4 GB,64 GB,Android,2847
+SAMSUNG,Galaxy A7 ,Midnight Black,2 GB,16 GB,Android,2466
+SAMSUNG,Galaxy S20 Ultra ,Cosmic Black,12 GB,128 GB,Android,1083
+SAMSUNG,Galaxy A7 ,Pearl White,2 GB,16 GB,Android,2960
+SAMSUNG,Galaxy Ace NXT ,Ceramic White,512 MB,4 GB,Android,950
+SAMSUNG,Galaxy Mega 5.8 ,Black,1.5 GB,8 GB,Android,1738
+SAMSUNG,Galaxy J1 ,White,512 MB,4 GB,Android,949
+SAMSUNG,Galaxy A3 ,Midnight Black,1 GB,16 GB,Android,2370
+SAMSUNG,Galaxy A50 ,Blue,4 GB,64 GB,Android,1051
+SAMSUNG,Galaxy Note 5 Dual ,Gold Platinum,4 GB,32 GB,Android,2334
+SAMSUNG,Galaxy A7 ,Black,4 GB,64 GB,Android,1738
+SAMSUNG,Galaxy Note 4 ,Blossom Pink,3 GB,32 GB,Android,2815
+SAMSUNG,GURU FM PLUS,Black,4 MB,256 MB,Android,3889
+SAMSUNG,Galaxy M40 ,COCKTAIL ORANGE,6 GB,128 GB,Android,947
+SAMSUNG,Galaxy E7 ,Blue,2 GB,16 GB,Android,1053
+SAMSUNG,Tizen Z3 ,Silver,1 GB,8 GB,Android,1871
+SAMSUNG,Galaxy A5 ,Pearl White,2 GB,16 GB,Android,554
+SAMSUNG,Galaxy Grand Quattro ,Titan Gray,1 GB,8 GB,Android,2127
+SAMSUNG,Galaxy Note 8 ,Midnight Black,6 GB,64 GB,Android,1285
+SAMSUNG,Galaxy E5 ,Black,1.5 GB,16 GB,Android,1639
+SAMSUNG,Galaxy Core 2 ,White,768 MB,4 GB,Android,3874
+SAMSUNG,Galaxy Grand 2 ,White,1.5 GB,8 GB,Android,979
+SAMSUNG,Galaxy S7 Edge ,Gold Platinum,4 GB,32 GB,Android,1738
+SAMSUNG,Galaxy Core Prime ,Silver,1 GB,8 GB,Android,1249
+SAMSUNG,Galaxy Trend ,Ceramic White,512 MB,4 GB,Android,2693
+SAMSUNG,Galaxy Star Pro ,Midnight Black,512 MB,4 GB,Android,3606
+SAMSUNG,M31 Prime ,Ocean Blue,6 GB,64 GB,Android,3458
+SAMSUNG,Galaxy S6 Edge ,Black,3 GB,64 GB,Android,2033
+SAMSUNG,Galaxy Star Advance ,Black,512 MB,4 GB,Android,1996
+SAMSUNG,Galaxy Trend ,Wine Red,512 MB,4 GB,Android,1391
+SAMSUNG,Galaxy S3 Neo ,Black,1.5 GB,16 GB,Android,2586
+SAMSUNG,Galaxy E7 ,White,2 GB,16 GB,Android,3921
+SAMSUNG,Galaxy Pocket Neo ,Metallic Silver,512 MB,4 GB,Android,2165
+SAMSUNG,Galaxy S Duos 2 ,Pure White,512 MB,4 GB,Android,3550
+SAMSUNG,Galaxy S4 Zoom ,White,1.5 GB,8 GB,Android,2865
+SAMSUNG,Galaxy Core 2 ,Black,768 MB,4 GB,Android,2850
+SAMSUNG,Galaxy S Duos 2 ,Black,512 MB,4 GB,Android,2804
+SAMSUNG,Galaxy Note 3 Neo ,White,2 GB,16 GB,Android,859
+SAMSUNG,Galaxy S7 ,Black Onyx,4 GB,32 GB,Android,3986
+SAMSUNG,Tizen Z3 ,Black,1 GB,8 GB,Android,574
+SAMSUNG,Galaxy Grand Prime 4g ,Grey,1 GB,8 GB,Android,1517
+SAMSUNG,Galaxy S6 ,Gold Platinum,3 GB,32 GB,Android,910
+SAMSUNG,S7 Edge ,Black Pearl,4 GB,128 GB,Android,966
+SAMSUNG,Galaxy S6 Edge+ ,Silver Titanium,4 GB,32 GB,Android,1307
+SAMSUNG,Galaxy S6 Edge+ ,Gold Platinum,4 GB,32 GB,Android,2231
+SAMSUNG,Galaxy S7 Edge ,Pink Gold,4 GB,32 GB,Android,1682
+SAMSUNG,Galaxy A52s 5G ,Awesome Mint,8 GB,128 GB,Android,2442
+SAMSUNG,Galaxy Z Fold3 5G ,Phantom Green,12 GB,256 GB,Android,3949
+SAMSUNG,Galaxy Z Fold3 5G ,Phantom Silver,12 GB,256 GB,Android,3312
+SAMSUNG,Galaxy Z Flip3 5G ,Lavender  ,8 GB,128 GB,Android,2777
+SAMSUNG,Galaxy F42 5G ,Matte Black,6 GB,128 GB,Android,1830
+SAMSUNG,Galaxy F42 5G ,Matte Black,8 GB,128 GB,Android,1918
+SAMSUNG,Galaxy F42 5G ,Matte Aqua,8 GB,128 GB,Android,3897
+SAMSUNG,Galaxy F42 5G ,Matte Aqua,6 GB,128 GB,Android,993
+Xiaomi,Mi 10 ,Coral Green,8 GB,256 GB,Android,2755
+Xiaomi,Mi 10 ,Twilight Grey,8 GB,256 GB,Android,900
+Xiaomi,Mi 10i ,Atlantic Blue,8 GB,128 GB,Android,2473
+Xiaomi,Mi 10i ,Atlantic Blue,6 GB,128 GB,Android,2316
+Xiaomi,Mi 10i ,Midnight Black,6 GB,128 GB,Android,1294
+Xiaomi,Mi 10i ,Pacific Sunrise,8 GB,128 GB,Android,1702
+Xiaomi,Mi 10T ,Cosmic Black,6 GB,128 GB,Android,935
+Xiaomi,Mi 10T ,Cosmic Black,8 GB,128 GB,Android,3514
+Xiaomi,Mi 10T ,Lunar Silver,6 GB,128 GB,Android,2044
+Xiaomi,Mi 11 Lite ,Jazz Blue,8 GB,128 GB,Android,556
+Xiaomi,Mi 11 Lite ,Jazz Blue,6 GB,128 GB,Android,3333
+Xiaomi,Mi 11 Lite ,Tuscany Coral,6 GB,128 GB,Android,2879
+Xiaomi,Mi 11 Lite ,Tuscany Coral,8 GB,128 GB,Android,2793
+Xiaomi,Mi 11 Lite ,Vinyl Black,8 GB,128 GB,Android,1741
+Xiaomi,Mi 11 Lite ,Vinyl Black,6 GB,128 GB,Android,3910
+Xiaomi,Mi 11X ,Celestial Silver,8 GB,128 GB,Android,1241
+Xiaomi,Mi 11X ,Celestial Silver,6 GB,128 GB,Android,781
+Xiaomi,Mi 11X ,Cosmic Black,8 GB,128 GB,Android,2565
+Xiaomi,Mi 11X ,Cosmic Black,6 GB,128 GB,Android,967
+Xiaomi,Mi 11X ,Lunar White,6 GB,128 GB,Android,2313
+Xiaomi,Mi 11X ,LUNAR WHITE,8 GB,128 GB,Android,757
+Xiaomi,Mi 11X ,Lunar White,8 GB,128 GB,Android,3034
+Xiaomi,MI 11X 5G ,CELESTIAL SILVER,6 GB,128 GB,Android,2899
+Xiaomi,MI 11X 5G ,COSMIC BLACK,6 GB,128 GB,Android,557
+Xiaomi,MI 11X 5G ,LUNAR WHITE,6 GB,128 GB,Android,3053
+Xiaomi,Mi 11X Pro 5G ,Celestial Silver,8 GB,128 GB,Android,2681
+Xiaomi,Mi 11X Pro 5G ,Cosmic Black,8 GB,128 GB,Android,2584
+Xiaomi,Mi 11X Pro 5G ,Cosmic Black,8 GB,256 GB,Android,3389
+Xiaomi,Mi 11X Pro 5G ,Lunar White,8 GB,256 GB,Android,706
+Xiaomi,Mi A2 ,Black,6 GB,128 GB,Android,3757
+Xiaomi,Mi A2 ,Black,4 GB,64 GB,Android,3410
+Xiaomi,Mi A2 ,Gold,6 GB,128 GB,Android,1440
+Xiaomi,Mi A2 ,Gold,4 GB,64 GB,Android,3614
+Xiaomi,Mi A2 ,Red,6 GB,128 GB,Android,836
+Xiaomi,Mi A2 ,Red,4 GB,64 GB,Android,3064
+Xiaomi,Mi A3 ,Kind of Grey,4 GB,64 GB,Android,1883
+Xiaomi,Mi A3 ,More Than White,4 GB,64 GB,Android,2785
+Xiaomi,Mi A3 ,Not just Blue,4 GB,64 GB,Android,1255
+Xiaomi,Mi Max 2 ,Black,4 GB,64 GB,Android,1252
+Xiaomi,MI3 ,Metallic Grey,2 GB,16 GB,Android,1739
+Xiaomi,Redmi 5 ,Black,3 GB,32 GB,Android,3316
+Xiaomi,Redmi 5 ,Gold,3 GB,32 GB,Android,3198
+Xiaomi,Redmi 5 ,Gold,4 GB,64 GB,Android,3585
+Xiaomi,Redmi 5 ,Lake Blue,3 GB,32 GB,Android,2815
+Xiaomi,Redmi 6 ,Black,3 GB,64 GB,Android,1536
+Xiaomi,Redmi 6 Pro ,Gold,4 GB,64 GB,Android,2616
+Xiaomi,Redmi 6 Pro ,Lake Blue,4 GB,64 GB,Android,1309
+Xiaomi,Redmi 6 Pro ,Red,3 GB,32 GB,Android,3808
+Xiaomi,Redmi 6 Pro ,Red,4 GB,64 GB,Android,3887
+Xiaomi,Redmi 6A ,Black,2 GB,32 GB,Android,2720
+Xiaomi,Redmi 6A ,Gold,2 GB,32 GB,Android,1032
+Xiaomi,Redmi 6A ,Rose Gold,2 GB,32 GB,Android,3670
+Xiaomi,Redmi 7 ,Comet Blue,2 GB,32 GB,Android,2024
+Xiaomi,Redmi 7 ,Eclipse Black,2 GB,32 GB,Android,1178
+Xiaomi,Redmi 7A ,Matte Gold,2 GB,16 GB,Android,3426
+Xiaomi,Redmi 7A ,Matte Gold,2 GB,32 GB,Android,2882
+Xiaomi,Redmi 8 ,Onyx Black,4 GB,64 GB,Android,1685
+Xiaomi,Redmi 8 ,Ruby Red,4 GB,64 GB,Android,2827
+Xiaomi,Redmi 8 ,Sapphire Blue,4 GB,64 GB,Android,1528
+Xiaomi,Redmi 8A ,Midnight Black,2 GB,32 GB,Android,720
+Xiaomi,Redmi 8A ,Sunset Red,2 GB,32 GB,Android,609
+Xiaomi,Redmi 8A Dual ,Midnight Grey,3 GB,32 GB,Android,1045
+Xiaomi,Redmi 8A Dual ,Midnight Grey,3 GB,64 GB,Android,3515
+Xiaomi,Redmi 8A Dual ,Sea Blue,3 GB,64 GB,Android,3624
+Xiaomi,Redmi 8A Dual ,Sky White,3 GB,32 GB,Android,1510
+Xiaomi,Redmi 8A Dual ,Sky White,3 GB,64 GB,Android,2562
+Xiaomi,Redmi 8A Dual ,Sky White,3 GB,64 GB,Android,2472
+Xiaomi,Redmi 9 ,Carbon Black,4 GB,64 GB,Android,2277
+Xiaomi,Redmi 9 ,Sky Blue,4 GB,128 GB,Android,3376
+Xiaomi,Redmi 9 ,Sky Blue,4 GB,64 GB,Android,2825
+Xiaomi,Redmi 9 ,Sporty Orange,4 GB,64 GB,Android,2399
+Xiaomi,REDMI 9 Power ,Blazing Blue,6 GB,128 GB,Android,2583
+Xiaomi,REDMI 9 Power ,Blazing Blue,4 GB,64 GB,Android,1903
+Xiaomi,REDMI 9 Power ,Electric Green,4 GB,64 GB,Android,960
+Xiaomi,REDMI 9 Power ,Fiery Red,6 GB,128 GB,Android,997
+Xiaomi,REDMI 9 Power ,Mighty Black,4 GB,64 GB,Android,1272
+Xiaomi,REDMI 9 Prime ,Matte Black,4 GB,64 GB,Android,1169
+Xiaomi,REDMI 9 Prime ,Mint Green,4 GB,64 GB,Android,3550
+Xiaomi,REDMI 9 Prime ,Space Blue,4 GB,64 GB,Android,3637
+Xiaomi,REDMI 9 Prime ,Sunrise Flare,4 GB,128 GB,Android,3569
+Xiaomi,Redmi 9A ,Midnight Black,2 GB,32 GB,Android,1894
+Xiaomi,Redmi 9A ,Midnight Black,3 GB,32 GB,Android,2184
+Xiaomi,Redmi 9A ,Nature Green,2 GB,32 GB,Android,1868
+Xiaomi,Redmi 9A ,Nature Green,3 GB,32 GB,Android,1129
+Xiaomi,Redmi 9A ,Sea Blue,3 GB,32 GB,Android,3608
+Xiaomi,Redmi 9A ,SeaBlue,2 GB,32 GB,Android,1271
+Xiaomi,REDMI 9i ,Midnight Black,4 GB,64 GB,Android,2206
+Xiaomi,REDMI 9i ,Nature Green,4 GB,64 GB,Android,3708
+Xiaomi,Redmi K20 ,Carbon Black,6 GB,128 GB,Android,2763
+Xiaomi,Redmi K20 ,Carbon Black,6 GB,64 GB,Android,3349
+Xiaomi,Redmi K20 ,Flame Red,6 GB,128 GB,Android,2522
+Xiaomi,Redmi K20 ,Pearl White,6 GB,64 GB,Android,2429
+Xiaomi,Redmi K20 Pro ,Carbon Black,6 GB,128 GB,Android,2883
+Xiaomi,Redmi K20 Pro ,Carbon Black,8 GB,256 GB,Android,1622
+Xiaomi,Redmi K20 Pro ,Glacier Blue,6 GB,128 GB,Android,506
+Xiaomi,REDMI Note 10 Pro ,Dark Nebula,6 GB,128 GB,Android,1155
+Xiaomi,REDMI Note 10 Pro ,Dark Night,6 GB,128 GB,Android,3728
+Xiaomi,REDMI Note 10S ,Cosmic Purple,6 GB,128 GB,Android,726
+Xiaomi,REDMI Note 10S ,Deep Sea Blue,6 GB,128 GB,Android,730
+Xiaomi,Redmi Note 4 ,Black,3 GB,32 GB,Android,722
+Xiaomi,Redmi Note 4 ,Black,4 GB,64 GB,Android,3839
+Xiaomi,Redmi Note 4 ,Gold,3 GB,32 GB,Android,1273
+Xiaomi,Redmi Note 5 ,Black,3 GB,32 GB,Android,856
+Xiaomi,Redmi Note 5 ,Black,4 GB,64 GB,Android,1123
+Xiaomi,Redmi Note 5 ,Gold,4 GB,64 GB,Android,2169
+Xiaomi,Redmi Note 5 ,Rose Gold,3 GB,32 GB,Android,1921
+Xiaomi,Redmi Note 5 Pro ,Blue,4 GB,64 GB,Android,3331
+Xiaomi,Redmi Note 5 Pro ,Gold,6 GB,64 GB,Android,3997
+Xiaomi,Redmi Note 5 Pro ,Gold,4 GB,64 GB,Android,3805
+Xiaomi,Redmi Note 6 Pro ,Black,6 GB,64 GB,Android,541
+Xiaomi,Redmi Note 6 Pro ,Black,4 GB,64 GB,Android,1397
+Xiaomi,Redmi Note 6 Pro ,Blue,4 GB,64 GB,Android,1239
+Xiaomi,Redmi Note 6 Pro ,Blue,6 GB,64 GB,Android,2771
+Xiaomi,Redmi Note 6 Pro ,Red,6 GB,64 GB,Android,852
+Xiaomi,Redmi Note 6 Pro ,Red,4 GB,64 GB,Android,2864
+Xiaomi,Redmi Note 6 Pro ,Rose Gold,4 GB,64 GB,Android,3364
+Xiaomi,Redmi Note 6 Pro ,Rose Gold,6 GB,64 GB,Android,517
+Xiaomi,Redmi Note 7 ,Onyx Black,3 GB,32 GB,Android,3722
+Xiaomi,Redmi Note 7 ,Onyx Black,4 GB,64 GB,Android,2804
+Xiaomi,Redmi Note 7 ,Ruby Red,3 GB,32 GB,Android,3673
+Xiaomi,Redmi Note 7 ,Ruby Red,4 GB,64 GB,Android,598
+Xiaomi,Redmi Note 7 ,Sapphire Blue,3 GB,32 GB,Android,1874
+Xiaomi,Redmi Note 7 Pro ,Blue,4 GB,64 GB,Android,2019
+Xiaomi,Redmi Note 7 Pro ,Moonlight White,6 GB,128 GB,Android,2189
+Xiaomi,Redmi Note 7 Pro ,MOONLIGHT WHITE,6 GB,64 GB,Android,1601
+Xiaomi,Redmi Note 7 Pro ,Nebula Red,4 GB,64 GB,Android,877
+Xiaomi,Redmi Note 7 Pro ,Neptune Blue,6 GB,128 GB,Android,2176
+Xiaomi,Redmi Note 7 Pro ,Neptune Blue,6 GB,64 GB,Android,2128
+Xiaomi,Redmi Note 7 Pro ,Space Black,6 GB,128 GB,Android,2188
+Xiaomi,Redmi Note 7 Pro ,Space Black,4 GB,64 GB,Android,3686
+Xiaomi,Redmi Note 7 Pro ,Space Black,6 GB,64 GB,Android,2017
+Xiaomi,Redmi Note 7S ,Astro Moonlight White,4 GB,64 GB,Android,958
+Xiaomi,Redmi Note 7S ,Onyx Black,4 GB,64 GB,Android,1555
+Xiaomi,Redmi Note 7S ,Ruby Red,4 GB,64 GB,Android,3046
+Xiaomi,Redmi Note 7S ,Sapphire Blue,4 GB,64 GB,Android,2289
+Xiaomi,Redmi Note 8 ,Cosmic Purple,4 GB,64 GB,Android,2078
+Xiaomi,Redmi Note 8 ,Neptune Blue,4 GB,64 GB,Android,1192
+Xiaomi,Redmi Note 8 ,Space Black,4 GB,64 GB,Android,2260
+Xiaomi,REDMI Note 9 ,Aqua Green,4 GB,64 GB,Android,1800
+Xiaomi,REDMI Note 9 ,Arctic White,4 GB,64 GB,Android,3750
+Xiaomi,REDMI Note 9 ,Pebble Grey,4 GB,64 GB,Android,990
+Xiaomi,REDMI Note 9 ,Shadow Black,4 GB,64 GB,Android,2807
+Xiaomi,Redmi Note 9 Pro ,Aurora Blue,4 GB,64 GB,Android,2844
+Xiaomi,Redmi Note 9 Pro ,Champagne Gold,4 GB,128 GB,Android,725
+Xiaomi,Redmi Note 9 Pro ,Champagne Gold,6 GB,128 GB,Android,2768
+Xiaomi,Redmi Note 9 Pro ,Champagne Gold,4 GB,64 GB,Android,3606
+Xiaomi,Redmi Note 9 Pro ,Glacier White,4 GB,64 GB,Android,3698
+Xiaomi,Redmi Note 9 Pro ,Interstellar Black,4 GB,128 GB,Android,3045
+Xiaomi,Redmi Y1 ,Rose Gold,3 GB,32 GB,Android,1952
+Xiaomi,Redmi Y2 ,Black,3 GB,32 GB,Android,1087
+Xiaomi,Redmi Y2 ,Black,4 GB,64 GB,Android,3126
+Xiaomi,Redmi Y2 ,Blue,3 GB,32 GB,Android,3309
+Xiaomi,Redmi Y2 ,Blue,4 GB,64 GB,Android,2056
+Xiaomi,Redmi Y2 ,Dark Grey,3 GB,32 GB,Android,2592
+Xiaomi,Redmi Y2 ,Dark Grey,4 GB,64 GB,Android,2301
+Xiaomi,Redmi Y2 ,Gold,3 GB,32 GB,Android,2861
+Xiaomi,Redmi Y2 ,Gold,4 GB,64 GB,Android,1632
+Xiaomi,Redmi Y2 ,Rose Gold,3 GB,32 GB,Android,538
+Xiaomi,Redmi Y2 ,Rose Gold,4 GB,64 GB,Android,1864
+Xiaomi,Redmi Y3 ,Bold Red,4 GB,64 GB,Android,1611
+Xiaomi,Redmi Y3 ,Elegant Blue,3 GB,32 GB,Android,3779
+Xiaomi,Redmi Y3 ,Elegant Blue,4 GB,64 GB,Android,1926
+Xiaomi,Redmi Y3 ,Prime Black,3 GB,32 GB,Android,3961
+Xiaomi,Redmi Y3 ,Prime Black,4 GB,64 GB,Android,1809
+Xiaomi,Y11T Pro,Celestial Magic,8 GB,256 GB,Android,3794
+Xiaomi,11i 5G,Stealth Black,6 GB,128 GB,Android,3134
+Xiaomi,11i 5G,Stealth Black,8 GB,128 GB,Android,2248
+Xiaomi,11i 5G,Purple Mist,6 GB,128 GB,Android,1229
+Xiaomi,11i Hypercharge 5G,Purple Mist,6 GB,128 GB,Android,3017
+Xiaomi,11i Hypercharge 5G,Stealth Black,6 GB,128 GB,Android,1455
+Xiaomi,11i Hypercharge 5G,Pacific Pearl,8 GB,128 GB,Android,844
+Xiaomi,11i 5G,Pacific Pearl,6 GB,128 GB,Android,1345
+Xiaomi,11i 5G,Purple Mist,8 GB,128 GB,Android,2805
+Xiaomi,11i Hypercharge 5G,Camo Green,6 GB,128 GB,Android,1728
+Xiaomi,Redmi Note 11T 5G,Matte Black,6 GB,64 GB,Android,3924
+Xiaomi,Redmi Note 11T 5G,Aquamarine Blue,8 GB,128 GB,Android,2285
+Xiaomi,Redmi Note 11T 5G,Stardust White,6 GB,129 GB,Android,1028
+Xiaomi,Redmi Note 11T 5G,Matte Black,6 GB,130 GB,Android,3842
+Xiaomi,Redmi Note 11T 5G,Aquamarine Blue,6 GB,128 GB,Android,2605
+Xiaomi,Redmi Note 11T 5G,Stardust White,6 GB,64 GB,Android,1866
+Xiaomi,Redmi Note 11T 5G,Matte Black,8 GB,128 GB,Android,562
+Xiaomi,Redmi Note 11T 5G,Stardust White,8 GB,129 GB,Android,3443
+Xiaomi,Note 10 lite,Glacier White,4 GB,64 GB,Android,1360
+Xiaomi,Note 10 lite,Glacier White,4 GB,128 GB,Android,2175
+Xiaomi,9A Sport,Metallic Blue,3 GB,32 GB,Android,3860
+Xiaomi,11 Lite NE,Diamond Dazzle,8 GB,128 GB,Android,594
+Xiaomi,11 Lite NE,Jazz Blue,6 GB,128 GB,Android,3357
+Xiaomi,11 Lite NE,Vinyl Black,6 GB,128 GB,Android,3931
+Xiaomi,11 Lite NE,Jazz Blue,8 GB,128 GB,Android,2460
+Xiaomi,11 Lite NE,Diamond Dazzle,6 GB,128 GB,Android,3047
+Xiaomi,11 Lite NE,Tuscany Coral,6 GB,128 GB,Android,2520
+Xiaomi,9A Sport,Carbon Black,2 GB,32 GB,Android,3352
+Xiaomi,9A Sport,Coral Green,3 GB,32 GB,Android,3724
+Xiaomi,11 Lite NE,Tuscany Coral,8 GB,128 GB,Android,3059
+Xiaomi,11 Lite NE,Jazz Blue,8 GB,129 GB,Android,1293
+Xiaomi,11 Lite NE,Vinyl Black,8 GB,130 GB,Android,866
+Xiaomi,11i Hypercharge 5G,Camo Green,8 GB,128 GB,Android,2172
