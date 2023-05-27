@@ -1,0 +1,69 @@
+Brand,Model,Color,Storage,OS,price
+Apple,iPhone 11 ,Black,256 GB,IOS,3045
+Apple,iPhone 11 Pro ,Gold,512 GB,IOS,3949
+Apple,iPhone 11 Pro ,Gold,256 GB,IOS,2248
+Apple,iPhone 12 Mini ,Black,256 GB,IOS,3426
+Apple,iPhone 13 Mini ,Blue,512 GB,IOS,3368
+Apple,iPhone 13 Pro Max,Alpine Green,256 GB,IOS,3660
+Apple,iPhone 13 Pro Max,Gold,128 GB,IOS,2719
+Apple,iPhone 13 Pro Max ,Gold,512 GB,IOS,3779
+Apple,iPhone 7 ,Black,32 GB,IOS,844
+Apple,iPhone SE ,Black,128 GB,IOS,2768
+Apple,iPhone XR ,Blue,128 GB,IOS,3550
+Apple,iPhone XR ,Coral,128 GB,IOS,3660
+LG,Stylus 2 ,Titan,16 GB,Android,800
+LG,Stylus 2 ,Brown,16 GB,Android,900
+LG,V20 ,Silver,64 GB,Android,1208
+LG,V20 ,Pink,64 GB,Android,1518
+LG,V20a ,Titan,64 GB,Android,1359
+LG,Velvet Dual Screen ,Aurora Silver,128 GB,Android,1400
+LG,Velvet Dual Screen ,Black,128 GB,Android,1561
+LG,W10 Alpha ,Black,128 GB,Android,1766
+LG,W41 ,MAGIC BLUE,64 GB,Android,1684
+LG,W41 Pro ,Laser Blue,128 GB,Android,2004
+Nokia,Asha 206,Black,64 GB,Android,554
+Nokia,G20 ,Blue,64 GB,Android,698
+Nokia,Lumia 510 ,Black,64 GB,Android,1889
+Nokia,Lumia 625 ,White,64 GB,Android,1960
+Nokia,Lumia 920 ,Black,32 GB,Android,961
+Nokia,Ta -1010/105,Black,32 GB,Android,1771
+Nokia,TA-1010/105,White,32 GB,Android,1874
+Nokia,TA-1010/105,Blue,32 GB,Android,1719
+Nokia,TA-1174 / TA-1299,Black,32 GB,Android,1727
+Nokia,X2 Dual SIM ,Bright Green,32 GB,Android,1051
+Nokia,XPlus ,Bright Green,64 GB,Android,1606
+Nokia,XR 20,Grey ,128 GB,Android,1763
+realme,6 Pro ,Lightning Red,128 GB,Android,2655
+realme,6 Pro ,Lightning Blue,64 GB,Android,1725
+realme,6 Pro ,Lightning Red,64 GB,Android,1225
+realme,6 Pro ,Lightning Orange,128 GB,Android,2288
+realme,6i ,Lunar White,64 GB,Android,1273
+realme,7i ,Fusion Blue,128 GB,Android,2124
+realme,8 Pro ,Infinite Blue,128 GB,Android,1092
+realme,8 Pro ,Illuminating Yellow,128 GB,Android,2197
+realme,U1 ,Ambitious Black,32 GB,Android,1329
+realme,U1 ,Brave Blue,64 GB,Android,2622
+realme,U1 ,Fiery Gold,64 GB,Android,1165
+realme,X7 Pro 5G ,Mystic Black,128 GB,Android,1601
+SAMSUNG,Galaxy A5 ,Black,16 GB,Android,650
+SAMSUNG,Galaxy A5 ,Champagne Gold,16 GB,Android,1351
+SAMSUNG,Galaxy A5 ,Pearl White,16 GB,Android,554
+SAMSUNG,Galaxy F42 5G ,Matte Black,128 GB,Android,1830
+SAMSUNG,Galaxy S7 ,Silver Titanium,32 GB,Android,1287
+SAMSUNG,Galaxy S7 ,Gold Platinum,32 GB,Android,1552
+Xiaomi,Redmi 5 ,Gold,32 GB,Android,3198
+Xiaomi,Redmi 5 ,Gold,64 GB,Android,3585
+Xiaomi,Redmi 5 ,Lake Blue,32 GB,Android,2815
+Xiaomi,Redmi 6 ,Black,64 GB,Android,1536
+Xiaomi,Redmi 6 Pro ,Gold,64 GB,Android,2616
+Xiaomi,Redmi 6A ,Gold,32 GB,Android,1032
+Xiaomi,Redmi 6A ,Rose Gold,32 GB,Android,1670
+Xiaomi,Redmi 7A ,Matte Gold,32 GB,Android,2882
+Xiaomi,Redmi 8A Dual ,Sky White,64 GB,Android,1472
+Xiaomi,Redmi 9 ,Black,64 GB,Android,2277
+Xiaomi,Redmi 9 ,Sky Blue,128 GB,Android,3376
+Xiaomi,Redmi 9A ,Midnight Black,32 GB,Android,1894
+Xiaomi,Redmi 9A ,Nature Green,32 GB,Android,1868
+Xiaomi,Redmi Note 4 ,Black,32 GB,Android,722
+Xiaomi,Redmi Note 4 ,Gold,32 GB,Android,900
+Xiaomi,Redmi Note 5 ,Rose Gold,32 GB,Android,1200
